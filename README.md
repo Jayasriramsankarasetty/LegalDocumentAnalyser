@@ -47,12 +47,12 @@ Manual contract review is tedious. This tool automates it by splitting text into
 
 ## 📊 Results Snapshot
 
-| Model                        | Accuracy (Before) | Accuracy (After Tuning) |
-|------------------------------|-------------------|-------------------------|
-| Logistic Regression          | ~0.749            | ~0.761                  |
-| Random Forest                | ~0.687            | ~0.708                  |
-| Linear SVC                   | ~0.742            | ~0.760                  |
-| Multinomial Naive Bayes      | -                 | ~0.651                  |
+| Model                        | Accuracy (Before)  | Accuracy (After Tuning) |
+|------------------------------|--------------------|-------------------------|
+| Logistic Regression          | ~0.7505            | ~0.7505                 |
+| Random Forest                | ~0.687             | ~0.708                  |
+| Linear SVC                   | ~0.742             | ~0.760                  |
+| Multinomial Naive Bayes      | ~0.651             | ~                       |
 
 Outputs:
 - `outputs/clause_type_distribution.png`
