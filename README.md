@@ -85,7 +85,7 @@ LegalDocumentAnalyser/
 
 ## ✨ Future Improvements
 
-- Try legal domain-specific models like **InLegalBERT**
+- Try legal domain-specific models like **LegalBERT**
 - Enhance clause splitting with better NLP parsing
 - Add entity frequency summaries in the app
 
