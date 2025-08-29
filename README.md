@@ -52,7 +52,7 @@ Manual contract review is tedious. This tool automates it by splitting text into
 | Logistic Regression          | ~0.7505            | ~0.7505                 |
 | Random Forest                | ~0.687             | ~0.708                  |
 | Linear SVC                   | ~0.742             | ~0.760                  |
-| Multinomial Naive Bayes      | ~0.651             |
+| Multinomial Naive Bayes      | ~0.651             |                         |
 
 Outputs:
 - `outputs/clause_type_distribution.png`
